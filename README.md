@@ -1,4 +1,4 @@
-#Potato
+#Potato Windows 7,8,10, Server 2008, Server 2012 提权工具
 Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012
 
 ###How it works
